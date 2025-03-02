@@ -15,6 +15,7 @@ The binaries for `LLVMBootstrap_Clang` have been built from upstream sources ver
 `LLVMBootstrap_Clang` is available for the following platforms:
 
  - `CrossPlatform(Platform("x86_64", "linux"; libc = "glibc") -> AnyPlatform)`
+ - `CrossPlatform(Platform("aarch64", "linux"; libc = "glibc") -> AnyPlatform)`
 # Dependencies
 The following JLL packages are required by `LLVMBootstrap_Clang`:
 
