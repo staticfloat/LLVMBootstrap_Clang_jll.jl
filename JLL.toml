@@ -25,17 +25,17 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:af4f245babf98faf73e4f117e5641fcbb00f1ef3"
+    treehash = "sha1:e60575fb11ab5b2fb58bc5939af7c15654a46f8f"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:ef7ca9e4cc486f0b3cf838acd634b80134a922b8762c62cf40f86cf304a0fd8b"
+        tarball_hash = "sha256:f9c5aae3ba9df4e697aeb904a6f37ef297505ab81312fdd41336b2cfc2ef33ae"
         url = "https://github.com/staticfloat/LLVMBootstrap_Clang_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_Clang-build_log-v17.0.0-x86_64-linux-gnu-target+any.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:48687aad20cb944743c57d5f4eba8a5e23c3683b"
+    treehash = "sha1:beaa6602f7b720ad1ca0d36087cee1ab1187a288"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:d9bca1d5bfecc6fe1f1312f12cf974f861b3132b5b1655702b514d6b9c8e6079"
+        tarball_hash = "sha256:eb1c88fe493558b5b2e3bd618514b6b36f6075848e596b6f9aab27ca5010613e"
         url = "https://github.com/staticfloat/LLVMBootstrap_Clang_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_Clang-extract_log-v17.0.0-x86_64-linux-gnu-target+any.tar.gz"
 
     [[builds.products]]
@@ -75,5 +75,5 @@ src_version = "17.0.6"
     treehash = "sha1:724c3a6cab69536c2ba19490c2e8ab39734455d5"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:6eecea69b76942407e406abdc59e52d5de7b2ad07108eceac44ccb819572a0ab"
+        tarball_hash = "sha256:e54317f7dcec5e11bfeaca7996e3899deb9451653c23a9a263ca5ea0deb3207e"
         url = "https://github.com/staticfloat/LLVMBootstrap_Clang_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_Clang-v17.0.0-x86_64-linux-gnu-target+any.tar.gz"
