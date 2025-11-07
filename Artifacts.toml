@@ -6,29 +6,29 @@ os = "linux"
 target = "any"
 
     [[LLVMBootstrap_Clang.download]]
-    sha256 = "dff6e6d970031c379b452d6651e99e1345565508836f46fda113e644ea0feca4"
+    sha256 = "affee3430241c0a861b07c5fdb4145fe75ea6a46286ad34fa768076114822c21"
     url = "https://github.com/staticfloat/LLVMBootstrap_Clang_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_Clang-v17.0.0-x86_64-linux-gnu-target+any.tar.gz"
 
 [[LLVMBootstrap_Clang-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "acfe690888dc80fb7abcfc721679e56492e24cb9"
+git-tree-sha1 = "613184612091ac4ccc7ebad3a55d011494c9a9da"
 lazy = true
 libc = "glibc"
 os = "linux"
 target = "any"
 
     [[LLVMBootstrap_Clang-build_log.download]]
-    sha256 = "d94f0ba09012f52d538762425b07f9c9b958fd94c9bd18e6981220103bfefb4c"
+    sha256 = "10ba940883703611a5f1c82b4e26b6651147d00e3aaf8f084fd9bc0b5899e921"
     url = "https://github.com/staticfloat/LLVMBootstrap_Clang_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_Clang-build_log-v17.0.0-x86_64-linux-gnu-target+any.tar.gz"
 
 [[LLVMBootstrap_Clang-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "9dd87141e4c6ea0c83ab792f72504df1f2d4aded"
+git-tree-sha1 = "7f250689959451674176443b098c64c411edfdb4"
 lazy = true
 libc = "glibc"
 os = "linux"
 target = "any"
 
     [[LLVMBootstrap_Clang-extract_log.download]]
-    sha256 = "49d8e65ee3545e07edbd659b3bfa6738e85f0ba9a08cf056cb72ae4126a7b269"
+    sha256 = "11864d0de1885870d942dcb0178377db002858445edc2fa9a05c71bfdbb98d01"
     url = "https://github.com/staticfloat/LLVMBootstrap_Clang_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_Clang-extract_log-v17.0.0-x86_64-linux-gnu-target+any.tar.gz"
