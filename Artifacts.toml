@@ -6,7 +6,7 @@ os = "linux"
 target = "any"
 
     [[LLVMBootstrap_Clang.download]]
-    sha256 = "06a8380ac87e2a08334693c8e2adf1910866bb7aeda8c92f3433477c18c75e5f"
+    sha256 = "d56120e5af92c4c7e5101e52b9ffdc8ca1f7dae33b00a89059ea937c6b7c0b62"
     url = "https://github.com/staticfloat/LLVMBootstrap_Clang_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_Clang-v17.0.0-x86_64-linux-gnu-target+any.tar.gz"
 
 [[LLVMBootstrap_Clang-build_log]]
@@ -18,7 +18,7 @@ os = "linux"
 target = "any"
 
     [[LLVMBootstrap_Clang-build_log.download]]
-    sha256 = "cf1c3fa0f96bc658394fedca14ab6b4ea22309f1eba1ed7edacebdf5d9a4a788"
+    sha256 = "ac106a723d0baa68d72faa712e3d72cedb09401171ad2c9730c0dc35a02c1490"
     url = "https://github.com/staticfloat/LLVMBootstrap_Clang_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_Clang-build_log-v17.0.0-x86_64-linux-gnu-target+any.tar.gz"
 
 [[LLVMBootstrap_Clang-extract_log]]
@@ -30,5 +30,5 @@ os = "linux"
 target = "any"
 
     [[LLVMBootstrap_Clang-extract_log.download]]
-    sha256 = "3344334395d06d435b952627e35f7ea151792d9c7211e2c369a063eafad715c6"
+    sha256 = "289ae1ad54d69ee16335f15e1ecae31f24ae92daae985fbae1a0a726fdaaf764"
     url = "https://github.com/staticfloat/LLVMBootstrap_Clang_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_Clang-extract_log-v17.0.0-x86_64-linux-gnu-target+any.tar.gz"
